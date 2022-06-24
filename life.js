@@ -1,3 +1,4 @@
+alert('CALCULATE WITH JOY')
 let operator =prompt("Enter your operator(+,-,/,*)");
 
 let firstvalue =parseInt(prompt("Enter your first number"));
